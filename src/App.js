@@ -9,8 +9,8 @@ import './App.css';
 import Filtered from './list'
 
 
-const CLIENTID = 'DHYP414BYAR0DDOA1OVMGUXNPVN5NA5IYBM3QCCDI1PSYSKC';
-const SECRET = '5OFGVUMI2LJA3QFOAYYZGIQBR2VYM1EMS0205RVRONXOZVR1';
+const CLIENTID = 'PMHC2WA1VCBHVYOPPSJ0QSBYTLRF4PNJ04OWVWV0PZJ0QFIR';
+const SECRET = 'CULSZZ44YAEBOWBFGPB4BF5ISRXXSNYR0EE3JV3CNE2ZWHV0';
 
  
 const URL = 'https://api.foursquare.com/v2/venues/';
@@ -242,7 +242,7 @@ class App extends Component {
 
         
        //  AIzaSyAcOI-r7d806emt2NSUdtj-YUZf38kKhtQ    mymymy
-        loadJS("https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyDro5BLuHHYy15Mj6X_eQogSsm5DTzQpRs&callback=initMap")
+        loadJS("https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyD1DrDBUd6GNL2EIBCxK-K0OjkTny8kbuA&callback=initMap")
 
     }
 
