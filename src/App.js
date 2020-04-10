@@ -36,7 +36,7 @@ class App extends Component {
         console.log(locs, 'locs')
 
 
-        let  venueURL = `${URL}${x.id}?client_id=${CLIENTID}&client_secret=${SECRET}&v=20180803`;
+        let  venueURL = `${URL}${x.id}?client_id=${CLIENTID}&client_secret=${SECRET}&v=20200403`;
 
         //var url = "https://api.foursquare.com/v2/venues/search?client_id=" + CLIENTID + "&client_secret=" + SECRET + "&v=20180729&ll=" + x.lat + "," + x.lng + "&limit=1";
 
